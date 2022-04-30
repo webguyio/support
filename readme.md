@@ -1,13 +1,7 @@
 # Support
 
-Welcome. This is a catch-all support area for any of my projects that don't necessarily have their own dedicated support area.
+Welcome. This is a catch-all support area for all my projects.
 
-Post for help here:
-
-https://github.com/bhadaway/support/issues
-
-Or email me directly:
-
-bhadaway@gmail.com
+https://github.com/bhadaway/support/issues OR bhadaway@gmail.com
 
 Thank you!
